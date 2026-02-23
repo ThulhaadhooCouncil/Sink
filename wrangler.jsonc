@@ -23,7 +23,7 @@
   },
   "ai": {
     "binding": "AI",
-    "remote": true
+    "remote": false
   },
   "analytics_engine_datasets": [
     {
